@@ -16,7 +16,6 @@ function App() {
       <Navbar />
       <Card />
       <Footer />
-      <div>atk</div>
     </>
   );
 }
